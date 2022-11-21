@@ -1,4 +1,4 @@
-# Nombre del REPO: mlops-webapp-up
+# Nombre del REPO: mlops_up_grupo_accm
 
 Web predict diabetes using api in azure
 
